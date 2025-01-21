@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/theoneandonlyshadow/MaxTac">
   </a>
-  <h2 align="center">DNSentinel</h2>
+  <h2 align="center">NetDaemon</h2>
   <p align="center">
     <hr>
    <h4 align="center"> System Tray App </h3>
